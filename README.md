@@ -24,7 +24,7 @@ This project aims to analyze content categories on the Social Buzz platform to i
 
 * **Top 5 Categories:** Animals, Science, Healthy Eating, Food, and Technology.
 * **Category Popularity:** The "Animals" category emerged as the most popular.
-* **Unique Categories:** A total of 16 unique categories were identified.
+* **Unique Categories:** 16 unique categories were identified.
 * **Seasonal Trends:** May was the most active month for content creation.
 
 ### Recommendations
@@ -40,11 +40,3 @@ This project aims to analyze content categories on the Social Buzz platform to i
 * **Python:** Used for data analysis, cleaning, and visualization.
 * **Pandas:** For data manipulation and analysis.
 * **Matplotlib/Seaborn:** For data visualization.
-
-### Future Work
-
-* **User Demographics:** Analyze user demographics associated with different content categories.
-* **Content Engagement:** Explore metrics like likes, comments, and shares to understand content engagement.
-* **Predictive Analytics:** Develop models to predict future content trends.
-
-**Note:** This README provides a basic overview of the project. You can customize it further by adding more details, code snippets, or specific visualizations.
